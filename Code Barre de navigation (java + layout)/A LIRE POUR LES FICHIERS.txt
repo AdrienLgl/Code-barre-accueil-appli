@@ -1,0 +1,18 @@
+Je t'ai mis le descriptif des fichiers :
+
+Dans le dossier "Java", tu as tous les fichiers .java à mettre dans le dossier java de ton projet mais je te conseille de copier coller le code 
+sur des activités que tu as créees toi-même, c'est plus simple pour le bon nom des fichiers.
+
+Main2Activity = Activité avec Barre de navigation
+ContactFragment = Onglet Contact
+HomeFragment = Onglet Accueil
+MapFragment = Onglet map
+StatsFragment = onglet statistique
+
+Dans le dossier "Layout", tu as tous les fichiers layout qui vont avec les fichiers java à mettre dans le dossier layout du projet:
+
+activity_main2 = Activité avec Barre de navigation
+fragment_contact = Onglet Contact
+fragment_home = Onglet accueil
+fragment_notifications = Onglets statistiques
+fragment_dashboard = Onglet Map
